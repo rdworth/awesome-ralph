@@ -6,8 +6,8 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 
 ## Tutorials
 
-- [Step-by-step guide to get Ralph working and shipping code](https://x.com/ryancarson/status/2008548371712135632) - x.com/ryancarson
-- [We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
+- [Step-by-step guide to get Ralph working and shipping code](https://x.com/ryancarson/status/2008548371712135632) - Ryan Carson
+- [We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md) - YC Agents hackathon
 
 ## Videos
 
