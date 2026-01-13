@@ -34,6 +34,7 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ryan Carson
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - Ben Williams
 - [iannuttall/ralph](https://github.com/iannuttall/ralph) - Ian Nuttall
+- [mikehostetler/wreckit](https://github.com/mikehostetler/wreckit) - Mike Hostetler
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Mikey O'Brien
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Frank Bria
 - [brenbuilds1/copilot-ralph](https://github.com/brenbuilds1/copilot-ralph) - Bren Builds
