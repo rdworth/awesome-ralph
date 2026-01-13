@@ -33,7 +33,7 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ryan Carson
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Mikey O'Brien
-- [frankbria/ralph-claude-cod](https://github.com/frankbria/ralph-claude-code) - Frank Bria
+- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Frank Bria
 - [Claude Code Plugin](https://github.com/anthropics/claude-code/tree/4f18698a9ed25517861a75125b526e319bcf8354/plugins/ralph-wiggum) - Anthropic
 
 ## News
