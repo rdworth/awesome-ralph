@@ -8,6 +8,8 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 
 - [Step-by-step guide to get Ralph working and shipping code](https://x.com/ryancarson/status/2008548371712135632) - Ryan Carson
 - [We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md) - YC Agents hackathon
+- [The Ralph Playbook](https://github.com/ClaytonFarr/ralph-playbook) - Clayton Farr
+- [11 Tips For AI Coding With Ralph Wiggum](https://www.aihero.dev/tips-for-ai-coding-with-ralph-wiggum) - Matt Pocock
 
 ## Videos
 
@@ -35,11 +37,14 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - Ben Williams
 - [iannuttall/ralph](https://github.com/iannuttall/ralph) - Ian Nuttall
 - [mikehostetler/wreckit](https://github.com/mikehostetler/wreckit) - Mike Hostetler
+- [tzachbon/smart-ralph](https://github.com/tzachbon/smart-ralph) - Zach Bonfil
+- [hmemcpy/ralph-wiggum](https://github.com/hmemcpy/ralph-wiggum) - Igal Tabachnik
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Mikey O'Brien
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Frank Bria
 - [brenbuilds1/copilot-ralph](https://github.com/brenbuilds1/copilot-ralph) - Bren Builds
 - [LeslieCBarry/claude-ralph](https://github.com/LeslieCBarry/claude-ralph) - Leslie Barry
-- [Claude Code Plugin](https://github.com/anthropics/claude-code/tree/4f18698a9ed25517861a75125b526e319bcf8354/plugins/ralph-wiggum) - Anthropic
+- [Ralph Loop Plugin](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-loop) - Anthropic
+- [Ralph Wiggum Plugin](https://github.com/anthropics/claude-code/tree/4f18698a9ed25517861a75125b526e319bcf8354/plugins/ralph-wiggum) - Anthropic
 
 ## News
 
