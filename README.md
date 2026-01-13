@@ -40,6 +40,7 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 
 - [How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now](https://venturebeat.com/technology/how-ralph-wiggum-went-from-the-simpsons-to-the-biggest-name-in-ai-right-now) - Venture Beat
 
-## OG
+## Blog Posts
 
 - [ghuntley.com/ralph](https://ghuntley.com/ralph/) - Geoffrey Huntley
+- [a brief history of ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph) - Dexter Horthy
