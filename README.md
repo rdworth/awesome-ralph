@@ -33,6 +33,7 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 - [AI can write code while you sleep](https://www.youtube.com/watch?v=TJkxAJS34CQ) - Ras Mic
 - [Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next)](https://www.youtube.com/watch?v=5xvP9O4msLM) - Cole Medin
 - [Inventing the Ralph Wiggum Loop with Geoffrey Huntley (#256)](https://www.youtube.com/watch?v=C1YNGy6qusg) - Dev Interrupted
+- [We need to talk about Ralph](https://www.youtube.com/watch?v=Yr9O6KFwbW4) - Theo
 
 ## Implementations
 
@@ -42,6 +43,7 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 - [mikehostetler/wreckit](https://github.com/mikehostetler/wreckit) - Mike Hostetler
 - [tzachbon/smart-ralph](https://github.com/tzachbon/smart-ralph) - Zach Bonfil
 - [hmemcpy/ralph-wiggum](https://github.com/hmemcpy/ralph-wiggum) - Igal Tabachnik
+- [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - Michael Shimeles
 - [agrimsingh/ralph-wiggum-cursor](https://github.com/agrimsingh/ralph-wiggum-cursor) - Agrim Singh
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Mikey O'Brien
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Frank Bria
