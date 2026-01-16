@@ -15,6 +15,7 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 
 - ["Ralph Wiggum" AI Agent will 10x Claude Code/Amp](https://www.youtube.com/watch?v=RpvQH0r0ecM) - Greg Isenberg interview with Ryan Carson
 - [Ship working code while you sleep with the Ralph Wiggum technique](https://www.youtube.com/watch?v=_IK18goX4X8) - Matt Pocock
+- [We need to talk about Ralph](https://www.youtube.com/watch?v=Yr9O6KFwbW4) - Theo
 - [The Ralph Wiggum Loop from 1st principles (by the creator of Ralph)](https://www.youtube.com/watch?v=4Nna09dG_c0) - Geoffrey Huntley
 - [Ralph Wiggum (and why Claude Code's implementation isn't it)](https://www.youtube.com/watch?v=O2bBWDoxO4s) - with Geoffrey Huntley and Dexter Horthy
 - [🦄 ai that works: Ralph Wiggum under the hood: Coding Agent Power Tools](https://www.youtube.com/watch?v=fOPvAPdqgPo) - Geoffrey Huntley, Dexter Horthy, and Vaibhav Gupta
@@ -33,7 +34,6 @@ Ralph is an autonomous AI coding loop that doesn't give up until its work is don
 - [AI can write code while you sleep](https://www.youtube.com/watch?v=TJkxAJS34CQ) - Ras Mic
 - [Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next)](https://www.youtube.com/watch?v=5xvP9O4msLM) - Cole Medin
 - [Inventing the Ralph Wiggum Loop with Geoffrey Huntley (#256)](https://www.youtube.com/watch?v=C1YNGy6qusg) - Dev Interrupted
-- [We need to talk about Ralph](https://www.youtube.com/watch?v=Yr9O6KFwbW4) - Theo
 
 ## Implementations
 
